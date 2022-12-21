@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika993&show_icons=true&locale=en" alt="anamika993" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika993&" alt="anamika993" /></p>
+
+## Snake eating my contibution graph
+![snake gif](https://github.com/Anamika993/Anamika993/blob/output/github-contribution-grid-snake.gif)
