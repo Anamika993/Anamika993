@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika993&label=Profile%20views&color=0e75b6&style=flat" alt="anamika993" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 Currently learning **REACTJS**
 
 - 📫 How to reach me **anamikakrivarshney@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QTuw9_CZ7s3um-S6kObEWNmoFI9sdmOZ/view?usp=sharing](https://drive.google.com/file/d/1QTuw9_CZ7s3um-S6kObEWNmoFI9sdmOZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QTuw9_CZ7s3um-S6kObEWNmoFI9sdmOZ/view?usp=sharing](https://drive.google.com/file/d/1jEwuC14VEuVSE9uUoWgkAf4x28j0OH0a/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
